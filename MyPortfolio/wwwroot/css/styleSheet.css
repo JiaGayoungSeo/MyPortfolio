@@ -1,0 +1,13 @@
+﻿body {
+}
+.container-fluid{
+    margin: 10px;
+    padding: 10px;
+}
+.view-more {
+    float: right;
+    padding: 5px;
+} 
+.view-more a {
+    font-size: 20px;
+}
